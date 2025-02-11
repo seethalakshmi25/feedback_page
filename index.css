@@ -1,0 +1,35 @@
+body{
+    background: rgb(53,98,117);
+}
+
+#fbox{
+    font-size: 40px;
+    font-family:sans-serif,'popppins' ;
+    color: white;
+}
+
+#desc{
+    font-size: 20px;
+    font-family:sans-serif,'popppins' ;
+    color: white;
+}
+
+#quote{
+    font-size: 30px;
+    font-family:sans-serif,'popppins' ;
+    color: white;
+    line-height: 1000%;
+}
+
+#rate{
+    font-size: 30px;
+}
+
+.operator{
+    font-size: larger;
+    border: none;
+}
+
+.operator:hover{
+    color: rgb(221, 221, 24);
+}
